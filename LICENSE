@@ -2,7 +2,7 @@ Creative Commons Attribution 4.0 International License
 
 Copyright © 2025 Noreum Network
 
-This work and all associated materials in this repository (including images, branding assets, documentation, and code samples) are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+All non-code materials in this repository — including images, artwork, branding assets, design documents, and written content — are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
 You are free to:
 
@@ -14,9 +14,15 @@ Under the following terms:
 
 Attribution — You must give appropriate credit, provide a link to this license, and indicate if changes were made.
 Attribution must clearly state:
-“© 2025 Noreum Network — used under CC BY 4.0 License”
+“© 2025 Noreum Network — used under CC BY 4.0 License.”
 
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-Full text of the license:
-https://creativecommons.org/licenses/by/4.0/
+Full text: https://creativecommons.org/licenses/by/4.0/
+
+Software and Source Code
+
+All software, scripts, and source code referenced or stored in this repository are licensed separately under the MIT License, unless otherwise stated in the file headers.
+This distinction ensures that Noreum’s creative assets remain attributed while the technical components stay open and reusable under permissive terms.
+
+Full text of the MIT License: https://opensource.org/licenses/MIT
