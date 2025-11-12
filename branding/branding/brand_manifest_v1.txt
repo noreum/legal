@@ -1,0 +1,50 @@
+# Noreum Network — Brand Manifest v1
+# Official Record of Visual Identity Assets
+# -------------------------------------------------------------
+
+Manifest Version: 1.0
+Release Date (UTC): 2025-11-12T19:00:00Z
+Maintainer: Noreum Network Foundation
+Contact: legal@noreum.org
+License: CC BY 4.0 International
+Repository: https://github.com/noreum/legal
+
+-------------------------------------------------------------
+FILES AND HASHES (SHA-256)
+-------------------------------------------------------------
+branding/noreum-logo.png
+→ <insert sha256 checksum here>
+
+branding/logo_rights.md
+→ <insert sha256 checksum here>
+
+branding/brand_manifest_v1.txt
+→ <insert sha256 checksum here>
+
+-------------------------------------------------------------
+DESCRIPTION
+-------------------------------------------------------------
+This manifest formally declares the authenticity and integrity
+of the Noreum Network’s official branding assets.
+
+Each listed file is cryptographically signed and verified using
+the Foundation’s cold GPG key. The SHA-256 digests serve as
+immutable fingerprints for verification.
+
+All materials are licensed under the Creative Commons
+Attribution 4.0 International (CC BY 4.0) license.
+
+-------------------------------------------------------------
+SIGNATURE
+-------------------------------------------------------------
+Signed-by: Noreum Cold Signing Key
+Fingerprint: 31BF 0CBA CE92 F8CB 4102 9C50 6663 2B63 E9BD 0F3B
+Signature File: brand_manifest_v1.txt.asc
+
+-------------------------------------------------------------
+NOTES
+-------------------------------------------------------------
+Any modification to these assets invalidates this manifest.
+A new version must be created and re-signed to remain valid.
+
+# End of Manifest
