@@ -39,3 +39,22 @@ Whenever possible, maintain **minimum clear space** equal to the height of the �
 
 **Visual Identity Reference:**  
 All official colors, typography, and iconography are documented in the internal *Noreum Design Manifest* and must align with its standards.
+
+
+###  Trademark Notice
+
+**Noreum**, the **Noreum emblem**, and associated visual identifiers (including the golden “N” mark and the twin-line motif) are **registered and protected trademarks** of the **Noreum Network Foundation**.
+
+Use of the Noreum name or logo implies acceptance of the following terms:
+- The mark must not be used to imply partnership, certification, or endorsement without prior written permission.  
+- Derivative or parody versions of the mark are prohibited in commercial, promotional, or competitive contexts.  
+- The Noreum Foundation reserves the right to request removal of any unauthorized or misleading usage at its discretion.  
+
+For trademark or licensing inquiries, contact:  
+ **legal@noreum.org**
+
+---
+
+© 2025 **Noreum Network Foundation** — All rights reserved where applicable.  
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) for non-commercial, attributed reproduction.
+
